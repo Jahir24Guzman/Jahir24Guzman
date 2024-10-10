@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Citas App Mobile**
 
-- 🌱 I’m currently learning **Laravel, MVC, Symfony, sql, poo**
+- 🌱 I’m currently learning **Laravel, MVC, Symfony, sql**
 
 - 📫 How to reach me **jirguz24@gmail.com**
 
