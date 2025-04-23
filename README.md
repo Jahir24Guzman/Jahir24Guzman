@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jahir Guzman</h1>
 <h3 align="center">A passionate frontend developer from Mexico.</h3>
 
-- 🔭 I’m currently working on **Citas App Mobile**
+- 🔭 I’m currently working on **Calendar App Mobile**
 
 - 🌱 I’m currently learning **Laravel, MVC, Symfony, sql**
 
